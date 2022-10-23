@@ -1,0 +1,1004 @@
+{
+	"requested": 1000,
+	"index": "/home/student/robust04-complete-index",
+	"lambda": 0.5,
+	"scorer" : "jm",
+	"queries": [
+		{
+		"number": "301",
+		"text": "#combine(#jm(international) #jm(organized) #jm(crime))"
+		},
+		{
+		"number": "302",
+		"text": "#combine(#jm(poliomyelitis) #jm(and) #jm(post) #jm(polio))"
+		},
+		{
+		"number": "303",
+		"text": "#combine(#jm(hubble) #jm(telescope) #jm(achievements))"
+		},
+		{
+		"number": "304",
+		"text": "#combine(#jm(endangered) #jm(species) #jm(mammals))"
+		},
+		{
+		"number": "305",
+		"text": "#combine(#jm(most) #jm(dangerous) #jm(vehicles))"
+		},
+		{
+		"number": "306",
+		"text": "#combine(#jm(african) #jm(civilian) #jm(deaths))"
+		},
+		{
+		"number": "307",
+		"text": "#combine(#jm(new) #jm(hydroelectric) #jm(projects))"
+		},
+		{
+		"number": "308",
+		"text": "#combine(#jm(implant) #jm(dentistry))"
+		},
+		{
+		"number": "309",
+		"text": "#combine(#jm(rap) #jm(and) #jm(crime))"
+		},
+		{
+		"number": "310",
+		"text": "#combine(#jm(radio) #jm(waves) #jm(and) #jm(brain) #jm(cancer))"
+		},
+		{
+		"number": "311",
+		"text": "#combine(#jm(industrial) #jm(espionage))"
+		},
+		{
+		"number": "312",
+		"text": "#combine(#jm(hydroponics))"
+		},
+		{
+		"number": "313",
+		"text": "#combine(#jm(magnetic) #jm(levitation) #jm(maglev))"
+		},
+		{
+		"number": "314",
+		"text": "#combine(#jm(marine) #jm(vegetation))"
+		},
+		{
+		"number": "315",
+		"text": "#combine(#jm(unexplained) #jm(highway) #jm(accidents))"
+		},
+		{
+		"number": "316",
+		"text": "#combine(#jm(polygamy) #jm(polyandry) #jm(polygyny))"
+		},
+		{
+		"number": "317",
+		"text": "#combine(#jm(unsolicited) #jm(faxes))"
+		},
+		{
+		"number": "318",
+		"text": "#combine(#jm(best) #jm(retirement) #jm(country))"
+		},
+		{
+		"number": "319",
+		"text": "#combine(#jm(new) #jm(fuel) #jm(sources))"
+		},
+		{
+		"number": "320",
+		"text": "#combine(#jm(undersea) #jm(fiber) #jm(optic) #jm(cable))"
+		},
+		{
+		"number": "321",
+		"text": "#combine(#jm(women) #jm(in) #jm(parliaments))"
+		},
+		{
+		"number": "322",
+		"text": "#combine(#jm(international) #jm(art) #jm(crime))"
+		},
+		{
+		"number": "323",
+		"text": "#combine(#jm(literary) #jm(journalistic) #jm(plagiarism))"
+		},
+		{
+		"number": "324",
+		"text": "#combine(#jm(argentine) #jm(british) #jm(relations))"
+		},
+		{
+		"number": "325",
+		"text": "#combine(#jm(cult) #jm(lifestyles))"
+		},
+		{
+		"number": "326",
+		"text": "#combine(#jm(ferry) #jm(sinkings))"
+		},
+		{
+		"number": "327",
+		"text": "#combine(#jm(modern) #jm(slavery))"
+		},
+		{
+		"number": "328",
+		"text": "#combine(#jm(pope) #jm(beatifications))"
+		},
+		{
+		"number": "329",
+		"text": "#combine(#jm(mexican) #jm(air) #jm(pollution))"
+		},
+		{
+		"number": "330",
+		"text": "#combine(#jm(iran) #jm(iraq) #jm(cooperation))"
+		},
+		{
+		"number": "331",
+		"text": "#combine(#jm(world) #jm(bank) #jm(criticism))"
+		},
+		{
+		"number": "332",
+		"text": "#combine(#jm(income) #jm(tax) #jm(evasion))"
+		},
+		{
+		"number": "333",
+		"text": "#combine(#jm(antibiotics) #jm(bacteria) #jm(disease))"
+		},
+		{
+		"number": "334",
+		"text": "#combine(#jm(export) #jm(controls) #jm(cryptography))"
+		},
+		{
+		"number": "335",
+		"text": "#combine(#jm(adoptive) #jm(biological) #jm(parents))"
+		},
+		{
+		"number": "336",
+		"text": "#combine(#jm(black) #jm(bear) #jm(attacks))"
+		},
+		{
+		"number": "337",
+		"text": "#combine(#jm(viral) #jm(hepatitis))"
+		},
+		{
+		"number": "338",
+		"text": "#combine(#jm(risk) #jm(of) #jm(aspirin))"
+		},
+		{
+		"number": "339",
+		"text": "#combine(#jm(alzheimers) #jm(drug) #jm(treatment))"
+		},
+		{
+		"number": "340",
+		"text": "#combine(#jm(land) #jm(mine) #jm(ban))"
+		},
+		{
+		"number": "341",
+		"text": "#combine(#jm(airport) #jm(security))"
+		},
+		{
+		"number": "342",
+		"text": "#combine(#jm(diplomatic) #jm(expulsion))"
+		},
+		{
+		"number": "343",
+		"text": "#combine(#jm(police) #jm(deaths))"
+		},
+		{
+		"number": "344",
+		"text": "#combine(#jm(abuses) #jm(of) #jm(e) #jm(mail))"
+		},
+		{
+		"number": "345",
+		"text": "#combine(#jm(overseas) #jm(tobacco) #jm(sales))"
+		},
+		{
+		"number": "346",
+		"text": "#combine(#jm(educational) #jm(standards))"
+		},
+		{
+		"number": "347",
+		"text": "#combine(#jm(wildlife) #jm(extinction))"
+		},
+		{
+		"number": "348",
+		"text": "#combine(#jm(agoraphobia))"
+		},
+		{
+		"number": "349",
+		"text": "#combine(#jm(metabolism))"
+		},
+		{
+		"number": "350",
+		"text": "#combine(#jm(health) #jm(and) #jm(computer) #jm(terminals))"
+		},
+		{
+		"number": "351",
+		"text": "#combine(#jm(falkland) #jm(petroleum) #jm(exploration))"
+		},
+		{
+		"number": "352",
+		"text": "#combine(#jm(british) #jm(chunnel) #jm(impact))"
+		},
+		{
+		"number": "353",
+		"text": "#combine(#jm(antarctica) #jm(exploration))"
+		},
+		{
+		"number": "354",
+		"text": "#combine(#jm(journalist) #jm(risks))"
+		},
+		{
+		"number": "355",
+		"text": "#combine(#jm(ocean) #jm(remote) #jm(sensing))"
+		},
+		{
+		"number": "356",
+		"text": "#combine(#jm(postmenopausal) #jm(estrogen) #jm(britain))"
+		},
+		{
+		"number": "357",
+		"text": "#combine(#jm(territorial) #jm(waters) #jm(dispute))"
+		},
+		{
+		"number": "358",
+		"text": "#combine(#jm(blood) #jm(alcohol) #jm(fatalities))"
+		},
+		{
+		"number": "359",
+		"text": "#combine(#jm(mutual) #jm(fund) #jm(predictors))"
+		},
+		{
+		"number": "360",
+		"text": "#combine(#jm(drug) #jm(legalization) #jm(benefits))"
+		},
+		{
+		"number": "361",
+		"text": "#combine(#jm(clothing) #jm(sweatshops))"
+		},
+		{
+		"number": "362",
+		"text": "#combine(#jm(human) #jm(smuggling))"
+		},
+		{
+		"number": "363",
+		"text": "#combine(#jm(transportation) #jm(tunnel) #jm(disasters))"
+		},
+		{
+		"number": "364",
+		"text": "#combine(#jm(rabies))"
+		},
+		{
+		"number": "365",
+		"text": "#combine(#jm(el) #jm(nino))"
+		},
+		{
+		"number": "366",
+		"text": "#combine(#jm(commercial) #jm(cyanide) #jm(uses))"
+		},
+		{
+		"number": "367",
+		"text": "#combine(#jm(piracy))"
+		},
+		{
+		"number": "368",
+		"text": "#combine(#jm(in) #jm(vitro) #jm(fertilization))"
+		},
+		{
+		"number": "369",
+		"text": "#combine(#jm(anorexia) #jm(nervosa) #jm(bulimia))"
+		},
+		{
+		"number": "370",
+		"text": "#combine(#jm(food) #jm(drug) #jm(laws))"
+		},
+		{
+		"number": "371",
+		"text": "#combine(#jm(health) #jm(insurance) #jm(holistic))"
+		},
+		{
+		"number": "372",
+		"text": "#combine(#jm(native) #jm(american) #jm(casino))"
+		},
+		{
+		"number": "373",
+		"text": "#combine(#jm(encryption) #jm(equipment) #jm(export))"
+		},
+		{
+		"number": "374",
+		"text": "#combine(#jm(nobel) #jm(prize) #jm(winners))"
+		},
+		{
+		"number": "375",
+		"text": "#combine(#jm(hydrogen) #jm(energy))"
+		},
+		{
+		"number": "376",
+		"text": "#combine(#jm(world) #jm(court))"
+		},
+		{
+		"number": "377",
+		"text": "#combine(#jm(cigar) #jm(smoking))"
+		},
+		{
+		"number": "378",
+		"text": "#combine(#jm(euro) #jm(opposition))"
+		},
+		{
+		"number": "379",
+		"text": "#combine(#jm(mainstreaming))"
+		},
+		{
+		"number": "380",
+		"text": "#combine(#jm(obesity) #jm(medical) #jm(treatment))"
+		},
+		{
+		"number": "381",
+		"text": "#combine(#jm(alternative) #jm(medicine))"
+		},
+		{
+		"number": "382",
+		"text": "#combine(#jm(hydrogen) #jm(fuel) #jm(automobiles))"
+		},
+		{
+		"number": "383",
+		"text": "#combine(#jm(mental) #jm(illness) #jm(drugs))"
+		},
+		{
+		"number": "384",
+		"text": "#combine(#jm(space) #jm(station) #jm(moon))"
+		},
+		{
+		"number": "385",
+		"text": "#combine(#jm(hybrid) #jm(fuel) #jm(cars))"
+		},
+		{
+		"number": "386",
+		"text": "#combine(#jm(teaching) #jm(disabled) #jm(children))"
+		},
+		{
+		"number": "387",
+		"text": "#combine(#jm(radioactive) #jm(waste))"
+		},
+		{
+		"number": "388",
+		"text": "#combine(#jm(organic) #jm(soil) #jm(enhancement))"
+		},
+		{
+		"number": "389",
+		"text": "#combine(#jm(illegal) #jm(technology) #jm(transfer))"
+		},
+		{
+		"number": "390",
+		"text": "#combine(#jm(orphan) #jm(drugs))"
+		},
+		{
+		"number": "391",
+		"text": "#combine(#jm(rd) #jm(drug) #jm(prices))"
+		},
+		{
+		"number": "392",
+		"text": "#combine(#jm(robotics))"
+		},
+		{
+		"number": "393",
+		"text": "#combine(#jm(mercy) #jm(killing))"
+		},
+		{
+		"number": "394",
+		"text": "#combine(#jm(home) #jm(schooling))"
+		},
+		{
+		"number": "395",
+		"text": "#combine(#jm(tourism))"
+		},
+		{
+		"number": "396",
+		"text": "#combine(#jm(sick) #jm(building) #jm(syndrome))"
+		},
+		{
+		"number": "397",
+		"text": "#combine(#jm(automobile) #jm(recalls))"
+		},
+		{
+		"number": "398",
+		"text": "#combine(#jm(dismantling) #jm(europes) #jm(arsenal))"
+		},
+		{
+		"number": "399",
+		"text": "#combine(#jm(oceanographic) #jm(vessels))"
+		},
+		{
+		"number": "400",
+		"text": "#combine(#jm(amazon) #jm(rain) #jm(forest))"
+		},
+		{
+		"number": "401",
+		"text": "#combine(#jm(foreign) #jm(minorities) #jm(germany))"
+		},
+		{
+		"number": "402",
+		"text": "#combine(#jm(behavioral) #jm(genetics))"
+		},
+		{
+		"number": "403",
+		"text": "#combine(#jm(osteoporosis))"
+		},
+		{
+		"number": "404",
+		"text": "#combine(#jm(ireland) #jm(peace) #jm(talks))"
+		},
+		{
+		"number": "405",
+		"text": "#combine(#jm(cosmic) #jm(events))"
+		},
+		{
+		"number": "406",
+		"text": "#combine(#jm(parkinsons) #jm(disease))"
+		},
+		{
+		"number": "407",
+		"text": "#combine(#jm(poaching) #jm(wildlife) #jm(preserves))"
+		},
+		{
+		"number": "408",
+		"text": "#combine(#jm(tropical) #jm(storms))"
+		},
+		{
+		"number": "409",
+		"text": "#combine(#jm(legal) #jm(pan) #jm(am) #jm(103))"
+		},
+		{
+		"number": "410",
+		"text": "#combine(#jm(schengen) #jm(agreement))"
+		},
+		{
+		"number": "411",
+		"text": "#combine(#jm(salvaging) #jm(shipwreck) #jm(treasure))"
+		},
+		{
+		"number": "412",
+		"text": "#combine(#jm(airport) #jm(security))"
+		},
+		{
+		"number": "413",
+		"text": "#combine(#jm(steel) #jm(production))"
+		},
+		{
+		"number": "414",
+		"text": "#combine(#jm(cuba) #jm(sugar) #jm(exports))"
+		},
+		{
+		"number": "415",
+		"text": "#combine(#jm(drugs) #jm(golden) #jm(triangle))"
+		},
+		{
+		"number": "416",
+		"text": "#combine(#jm(three) #jm(gorges) #jm(project))"
+		},
+		{
+		"number": "417",
+		"text": "#combine(#jm(creativity))"
+		},
+		{
+		"number": "418",
+		"text": "#combine(#jm(quilts) #jm(income))"
+		},
+		{
+		"number": "419",
+		"text": "#combine(#jm(recycle) #jm(automobile) #jm(tires))"
+		},
+		{
+		"number": "420",
+		"text": "#combine(#jm(carbon) #jm(monoxide) #jm(poisoning))"
+		},
+		{
+		"number": "421",
+		"text": "#combine(#jm(industrial) #jm(waste) #jm(disposal))"
+		},
+		{
+		"number": "422",
+		"text": "#combine(#jm(art) #jm(stolen) #jm(forged))"
+		},
+		{
+		"number": "423",
+		"text": "#combine(#jm(milosevic) #jm(mirjana) #jm(markovic))"
+		},
+		{
+		"number": "424",
+		"text": "#combine(#jm(suicides))"
+		},
+		{
+		"number": "425",
+		"text": "#combine(#jm(counterfeiting) #jm(money))"
+		},
+		{
+		"number": "426",
+		"text": "#combine(#jm(law) #jm(enforcement) #jm(dogs))"
+		},
+		{
+		"number": "427",
+		"text": "#combine(#jm(uv) #jm(damage) #jm(eyes))"
+		},
+		{
+		"number": "428",
+		"text": "#combine(#jm(declining) #jm(birth) #jm(rates))"
+		},
+		{
+		"number": "429",
+		"text": "#combine(#jm(legionnaires) #jm(disease))"
+		},
+		{
+		"number": "430",
+		"text": "#combine(#jm(killer) #jm(bee) #jm(attacks))"
+		},
+		{
+		"number": "431",
+		"text": "#combine(#jm(robotic) #jm(technology))"
+		},
+		{
+		"number": "432",
+		"text": "#combine(#jm(profiling) #jm(motorists) #jm(police))"
+		},
+		{
+		"number": "433",
+		"text": "#combine(#jm(greek) #jm(philosophy) #jm(stoicism))"
+		},
+		{
+		"number": "434",
+		"text": "#combine(#jm(estonia) #jm(economy))"
+		},
+		{
+		"number": "435",
+		"text": "#combine(#jm(curbing) #jm(population) #jm(growth))"
+		},
+		{
+		"number": "436",
+		"text": "#combine(#jm(railway) #jm(accidents))"
+		},
+		{
+		"number": "437",
+		"text": "#combine(#jm(deregulation) #jm(gas) #jm(electric))"
+		},
+		{
+		"number": "438",
+		"text": "#combine(#jm(tourism) #jm(increase))"
+		},
+		{
+		"number": "439",
+		"text": "#combine(#jm(inventions) #jm(scientific) #jm(discoveries))"
+		},
+		{
+		"number": "440",
+		"text": "#combine(#jm(child) #jm(labor))"
+		},
+		{
+		"number": "441",
+		"text": "#combine(#jm(lyme) #jm(disease))"
+		},
+		{
+		"number": "442",
+		"text": "#combine(#jm(heroic) #jm(acts))"
+		},
+		{
+		"number": "443",
+		"text": "#combine(#jm(us) #jm(investment) #jm(africa))"
+		},
+		{
+		"number": "444",
+		"text": "#combine(#jm(supercritical) #jm(fluids))"
+		},
+		{
+		"number": "445",
+		"text": "#combine(#jm(women) #jm(clergy))"
+		},
+		{
+		"number": "446",
+		"text": "#combine(#jm(tourists) #jm(violence))"
+		},
+		{
+		"number": "447",
+		"text": "#combine(#jm(stirling) #jm(engine))"
+		},
+		{
+		"number": "448",
+		"text": "#combine(#jm(ship) #jm(losses))"
+		},
+		{
+		"number": "449",
+		"text": "#combine(#jm(antibiotics) #jm(ineffectiveness))"
+		},
+		{
+		"number": "450",
+		"text": "#combine(#jm(king) #jm(hussein) #jm(peace))"
+		},
+		{
+		"number": "601",
+		"text": "#combine(#jm(turkey) #jm(iraq) #jm(water))"
+		},
+		{
+		"number": "602",
+		"text": "#combine(#jm(czech) #jm(slovak) #jm(sovereignty))"
+		},
+		{
+		"number": "603",
+		"text": "#combine(#jm(tobacco) #jm(cigarette) #jm(lawsuit))"
+		},
+		{
+		"number": "604",
+		"text": "#combine(#jm(lyme) #jm(disease) #jm(arthritis))"
+		},
+		{
+		"number": "605",
+		"text": "#combine(#jm(great) #jm(britain) #jm(health) #jm(care))"
+		},
+		{
+		"number": "606",
+		"text": "#combine(#jm(leg) #jm(traps) #jm(ban))"
+		},
+		{
+		"number": "607",
+		"text": "#combine(#jm(human) #jm(genetic) #jm(code))"
+		},
+		{
+		"number": "608",
+		"text": "#combine(#jm(taxing) #jm(social) #jm(security))"
+		},
+		{
+		"number": "609",
+		"text": "#combine(#jm(per) #jm(capita) #jm(alcohol) #jm(consumption))"
+		},
+		{
+		"number": "610",
+		"text": "#combine(#jm(minimum) #jm(wage) #jm(adverse) #jm(impact))"
+		},
+		{
+		"number": "611",
+		"text": "#combine(#jm(kurds) #jm(germany) #jm(violence))"
+		},
+		{
+		"number": "612",
+		"text": "#combine(#jm(tibet) #jm(protesters))"
+		},
+		{
+		"number": "613",
+		"text": "#combine(#jm(berlin) #jm(wall) #jm(disposal))"
+		},
+		{
+		"number": "614",
+		"text": "#combine(#jm(flavr) #jm(savr) #jm(tomato))"
+		},
+		{
+		"number": "615",
+		"text": "#combine(#jm(timber) #jm(exports) #jm(asia))"
+		},
+		{
+		"number": "616",
+		"text": "#combine(#jm(volkswagen) #jm(mexico))"
+		},
+		{
+		"number": "617",
+		"text": "#combine(#jm(russia) #jm(cuba) #jm(economy))"
+		},
+		{
+		"number": "618",
+		"text": "#combine(#jm(ayatollah) #jm(khomeini) #jm(death))"
+		},
+		{
+		"number": "619",
+		"text": "#combine(#jm(winnie) #jm(mandela) #jm(scandal))"
+		},
+		{
+		"number": "620",
+		"text": "#combine(#jm(france) #jm(nuclear) #jm(testing))"
+		},
+		{
+		"number": "621",
+		"text": "#combine(#jm(women) #jm(ordained) #jm(church) #jm(of) #jm(england))"
+		},
+		{
+		"number": "622",
+		"text": "#combine(#jm(price) #jm(fixing))"
+		},
+		{
+		"number": "623",
+		"text": "#combine(#jm(toxic) #jm(chemical) #jm(weapon))"
+		},
+		{
+		"number": "624",
+		"text": "#combine(#jm(sdi) #jm(star) #jm(wars))"
+		},
+		{
+		"number": "625",
+		"text": "#combine(#jm(arrests) #jm(bombing) #jm(wtc))"
+		},
+		{
+		"number": "626",
+		"text": "#combine(#jm(human) #jm(stampede))"
+		},
+		{
+		"number": "627",
+		"text": "#combine(#jm(russian) #jm(food) #jm(crisis))"
+		},
+		{
+		"number": "628",
+		"text": "#combine(#jm(us) #jm(invasion) #jm(of) #jm(panama))"
+		},
+		{
+		"number": "629",
+		"text": "#combine(#jm(abortion) #jm(clinic) #jm(attack))"
+		},
+		{
+		"number": "630",
+		"text": "#combine(#jm(gulf) #jm(war) #jm(syndrome))"
+		},
+		{
+		"number": "631",
+		"text": "#combine(#jm(mandela) #jm(south) #jm(africa) #jm(president))"
+		},
+		{
+		"number": "632",
+		"text": "#combine(#jm(southeast) #jm(asia) #jm(tin) #jm(mining))"
+		},
+		{
+		"number": "633",
+		"text": "#combine(#jm(welsh) #jm(devolution))"
+		},
+		{
+		"number": "634",
+		"text": "#combine(#jm(l) #jm(tryptophan) #jm(deaths))"
+		},
+		{
+		"number": "635",
+		"text": "#combine(#jm(doctor) #jm(assisted) #jm(suicides))"
+		},
+		{
+		"number": "636",
+		"text": "#combine(#jm(jury) #jm(duty) #jm(exemptions))"
+		},
+		{
+		"number": "637",
+		"text": "#combine(#jm(human) #jm(growth) #jm(hormone) #jm(hgh))"
+		},
+		{
+		"number": "638",
+		"text": "#combine(#jm(wrongful) #jm(convictions))"
+		},
+		{
+		"number": "639",
+		"text": "#combine(#jm(consumer) #jm(on) #jm(line) #jm(shopping))"
+		},
+		{
+		"number": "640",
+		"text": "#combine(#jm(maternity) #jm(leave) #jm(policies))"
+		},
+		{
+		"number": "641",
+		"text": "#combine(#jm(valdez) #jm(wildlife) #jm(marine) #jm(life))"
+		},
+		{
+		"number": "642",
+		"text": "#combine(#jm(tiananmen) #jm(square) #jm(protesters))"
+		},
+		{
+		"number": "643",
+		"text": "#combine(#jm(salmon) #jm(dams) #jm(pacific) #jm(northwest))"
+		},
+		{
+		"number": "644",
+		"text": "#combine(#jm(exotic) #jm(animals) #jm(import))"
+		},
+		{
+		"number": "645",
+		"text": "#combine(#jm(software) #jm(piracy))"
+		},
+		{
+		"number": "646",
+		"text": "#combine(#jm(food) #jm(stamps) #jm(increase))"
+		},
+		{
+		"number": "647",
+		"text": "#combine(#jm(windmill) #jm(electricity))"
+		},
+		{
+		"number": "648",
+		"text": "#combine(#jm(family) #jm(leave) #jm(law))"
+		},
+		{
+		"number": "649",
+		"text": "#combine(#jm(computer) #jm(viruses))"
+		},
+		{
+		"number": "650",
+		"text": "#combine(#jm(tax) #jm(evasion) #jm(indicted))"
+		},
+		{
+		"number": "651",
+		"text": "#combine(#jm(us) #jm(ethnic) #jm(population))"
+		},
+		{
+		"number": "652",
+		"text": "#combine(#jm(oic) #jm(balkans) #jm(1990s))"
+		},
+		{
+		"number": "653",
+		"text": "#combine(#jm(eta) #jm(basque) #jm(terrorism))"
+		},
+		{
+		"number": "654",
+		"text": "#combine(#jm(same) #jm(sex) #jm(schools))"
+		},
+		{
+		"number": "655",
+		"text": "#combine(#jm(add) #jm(diagnosis) #jm(treatment))"
+		},
+		{
+		"number": "656",
+		"text": "#combine(#jm(lead) #jm(poisoning) #jm(children))"
+		},
+		{
+		"number": "657",
+		"text": "#combine(#jm(school) #jm(prayer) #jm(banned))"
+		},
+		{
+		"number": "658",
+		"text": "#combine(#jm(teenage) #jm(pregnancy))"
+		},
+		{
+		"number": "659",
+		"text": "#combine(#jm(cruise) #jm(health) #jm(safety))"
+		},
+		{
+		"number": "660",
+		"text": "#combine(#jm(whale) #jm(watching) #jm(california))"
+		},
+		{
+		"number": "661",
+		"text": "#combine(#jm(melanoma) #jm(treatment) #jm(causes))"
+		},
+		{
+		"number": "662",
+		"text": "#combine(#jm(telemarketer) #jm(protection))"
+		},
+		{
+		"number": "663",
+		"text": "#combine(#jm(agent) #jm(orange) #jm(exposure))"
+		},
+		{
+		"number": "664",
+		"text": "#combine(#jm(american) #jm(indian) #jm(museum))"
+		},
+		{
+		"number": "665",
+		"text": "#combine(#jm(poverty) #jm(africa) #jm(sub) #jm(sahara))"
+		},
+		{
+		"number": "666",
+		"text": "#combine(#jm(thatcher) #jm(resignation) #jm(impact))"
+		},
+		{
+		"number": "667",
+		"text": "#combine(#jm(unmarried) #jm(partner) #jm(households))"
+		},
+		{
+		"number": "668",
+		"text": "#combine(#jm(poverty) #jm(disease))"
+		},
+		{
+		"number": "669",
+		"text": "#combine(#jm(islamic) #jm(revolution))"
+		},
+		{
+		"number": "670",
+		"text": "#combine(#jm(us) #jm(elections) #jm(apathy))"
+		},
+		{
+		"number": "671",
+		"text": "#combine(#jm(salvation) #jm(army) #jm(benefits))"
+		},
+		{
+		"number": "673",
+		"text": "#combine(#jm(soviet) #jm(withdrawal) #jm(afghanistan))"
+		},
+		{
+		"number": "674",
+		"text": "#combine(#jm(greenpeace) #jm(prosecuted))"
+		},
+		{
+		"number": "675",
+		"text": "#combine(#jm(olympics) #jm(training) #jm(swimming))"
+		},
+		{
+		"number": "676",
+		"text": "#combine(#jm(poppy) #jm(cultivation))"
+		},
+		{
+		"number": "677",
+		"text": "#combine(#jm(leaning) #jm(tower) #jm(of) #jm(pisa))"
+		},
+		{
+		"number": "678",
+		"text": "#combine(#jm(joint) #jm(custody) #jm(impact))"
+		},
+		{
+		"number": "679",
+		"text": "#combine(#jm(opening) #jm(adoption) #jm(records))"
+		},
+		{
+		"number": "680",
+		"text": "#combine(#jm(immigrants) #jm(spanish) #jm(school))"
+		},
+		{
+		"number": "681",
+		"text": "#combine(#jm(wind) #jm(power) #jm(location))"
+		},
+		{
+		"number": "682",
+		"text": "#combine(#jm(adult) #jm(immigrants) #jm(english))"
+		},
+		{
+		"number": "683",
+		"text": "#combine(#jm(czechoslovakia) #jm(breakup))"
+		},
+		{
+		"number": "684",
+		"text": "#combine(#jm(part) #jm(time) #jm(benefits))"
+		},
+		{
+		"number": "685",
+		"text": "#combine(#jm(oscar) #jm(winner) #jm(selection))"
+		},
+		{
+		"number": "686",
+		"text": "#combine(#jm(argentina) #jm(pegging) #jm(dollar))"
+		},
+		{
+		"number": "687",
+		"text": "#combine(#jm(northern) #jm(ireland) #jm(industry))"
+		},
+		{
+		"number": "688",
+		"text": "#combine(#jm(non) #jm(us) #jm(media) #jm(bias))"
+		},
+		{
+		"number": "689",
+		"text": "#combine(#jm(family) #jm(planning) #jm(aid))"
+		},
+		{
+		"number": "690",
+		"text": "#combine(#jm(college) #jm(education) #jm(advantage))"
+		},
+		{
+		"number": "691",
+		"text": "#combine(#jm(clear) #jm(cutting) #jm(forests))"
+		},
+		{
+		"number": "692",
+		"text": "#combine(#jm(prostate) #jm(cancer) #jm(detection) #jm(treatment))"
+		},
+		{
+		"number": "693",
+		"text": "#combine(#jm(newspapers) #jm(electronic) #jm(media))"
+		},
+		{
+		"number": "694",
+		"text": "#combine(#jm(compost) #jm(pile))"
+		},
+		{
+		"number": "695",
+		"text": "#combine(#jm(white) #jm(collar) #jm(crime) #jm(sentence))"
+		},
+		{
+		"number": "696",
+		"text": "#combine(#jm(safety) #jm(plastic) #jm(surgery))"
+		},
+		{
+		"number": "697",
+		"text": "#combine(#jm(air) #jm(traffic) #jm(controller))"
+		},
+		{
+		"number": "698",
+		"text": "#combine(#jm(literacy) #jm(rates) #jm(africa))"
+		},
+		{
+		"number": "699",
+		"text": "#combine(#jm(term) #jm(limits))"
+		},
+		{
+		"number": "700",
+		"text": "#combine(#jm(gasoline) #jm(tax) #jm(us))"
+		}
+	]
+}

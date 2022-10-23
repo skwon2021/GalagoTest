@@ -1,0 +1,1008 @@
+{
+	"requested": 1000,
+	"index": "/home/student/robust04-complete-index",
+	"mu": 1000,
+	"scorer" : "dirichlet",
+	"relevanceModel": "org.lemurproject.galago.core.retrieval.prf.RelevanceModel3",
+	"fbDocs": 20,
+	"fbTerm": 100,
+	"fbOrigWeight": 0.75,
+	"queries": [
+		{
+		"number": "301",
+		"text": "#rm(international organized crime)"
+		},
+		{
+		"number": "302",
+		"text": "#rm(poliomyelitis and post polio)"
+		},
+		{
+		"number": "303",
+		"text": "#rm(hubble telescope achievements)"
+		},
+		{
+		"number": "304",
+		"text": "#rm(endangered species mammals)"
+		},
+		{
+		"number": "305",
+		"text": "#rm(most dangerous vehicles)"
+		},
+		{
+		"number": "306",
+		"text": "#rm(african civilian deaths)"
+		},
+		{
+		"number": "307",
+		"text": "#rm(new hydroelectric projects)"
+		},
+		{
+		"number": "308",
+		"text": "#rm(implant dentistry)"
+		},
+		{
+		"number": "309",
+		"text": "#rm(rap and crime)"
+		},
+		{
+		"number": "310",
+		"text": "#rm(radio waves and brain cancer)"
+		},
+		{
+		"number": "311",
+		"text": "#rm(industrial espionage)"
+		},
+		{
+		"number": "312",
+		"text": "#rm(hydroponics)"
+		},
+		{
+		"number": "313",
+		"text": "#rm(magnetic levitation maglev)"
+		},
+		{
+		"number": "314",
+		"text": "#rm(marine vegetation)"
+		},
+		{
+		"number": "315",
+		"text": "#rm(unexplained highway accidents)"
+		},
+		{
+		"number": "316",
+		"text": "#rm(polygamy polyandry polygyny)"
+		},
+		{
+		"number": "317",
+		"text": "#rm(unsolicited faxes)"
+		},
+		{
+		"number": "318",
+		"text": "#rm(best retirement country)"
+		},
+		{
+		"number": "319",
+		"text": "#rm(new fuel sources)"
+		},
+		{
+		"number": "320",
+		"text": "#rm(undersea fiber optic cable)"
+		},
+		{
+		"number": "321",
+		"text": "#rm(women in parliaments)"
+		},
+		{
+		"number": "322",
+		"text": "#rm(international art crime)"
+		},
+		{
+		"number": "323",
+		"text": "#rm(literary journalistic plagiarism)"
+		},
+		{
+		"number": "324",
+		"text": "#rm(argentine british relations)"
+		},
+		{
+		"number": "325",
+		"text": "#rm(cult lifestyles)"
+		},
+		{
+		"number": "326",
+		"text": "#rm(ferry sinkings)"
+		},
+		{
+		"number": "327",
+		"text": "#rm(modern slavery)"
+		},
+		{
+		"number": "328",
+		"text": "#rm(pope beatifications)"
+		},
+		{
+		"number": "329",
+		"text": "#rm(mexican air pollution)"
+		},
+		{
+		"number": "330",
+		"text": "#rm(iran iraq cooperation)"
+		},
+		{
+		"number": "331",
+		"text": "#rm(world bank criticism)"
+		},
+		{
+		"number": "332",
+		"text": "#rm(income tax evasion)"
+		},
+		{
+		"number": "333",
+		"text": "#rm(antibiotics bacteria disease)"
+		},
+		{
+		"number": "334",
+		"text": "#rm(export controls cryptography)"
+		},
+		{
+		"number": "335",
+		"text": "#rm(adoptive biological parents)"
+		},
+		{
+		"number": "336",
+		"text": "#rm(black bear attacks)"
+		},
+		{
+		"number": "337",
+		"text": "#rm(viral hepatitis)"
+		},
+		{
+		"number": "338",
+		"text": "#rm(risk of aspirin)"
+		},
+		{
+		"number": "339",
+		"text": "#rm(alzheimers drug treatment)"
+		},
+		{
+		"number": "340",
+		"text": "#rm(land mine ban)"
+		},
+		{
+		"number": "341",
+		"text": "#rm(airport security)"
+		},
+		{
+		"number": "342",
+		"text": "#rm(diplomatic expulsion)"
+		},
+		{
+		"number": "343",
+		"text": "#rm(police deaths)"
+		},
+		{
+		"number": "344",
+		"text": "#rm(abuses of e mail)"
+		},
+		{
+		"number": "345",
+		"text": "#rm(overseas tobacco sales)"
+		},
+		{
+		"number": "346",
+		"text": "#rm(educational standards)"
+		},
+		{
+		"number": "347",
+		"text": "#rm(wildlife extinction)"
+		},
+		{
+		"number": "348",
+		"text": "#rm(agoraphobia)"
+		},
+		{
+		"number": "349",
+		"text": "#rm(metabolism)"
+		},
+		{
+		"number": "350",
+		"text": "#rm(health and computer terminals)"
+		},
+		{
+		"number": "351",
+		"text": "#rm(falkland petroleum exploration)"
+		},
+		{
+		"number": "352",
+		"text": "#rm(british chunnel impact)"
+		},
+		{
+		"number": "353",
+		"text": "#rm(antarctica exploration)"
+		},
+		{
+		"number": "354",
+		"text": "#rm(journalist risks)"
+		},
+		{
+		"number": "355",
+		"text": "#rm(ocean remote sensing)"
+		},
+		{
+		"number": "356",
+		"text": "#rm(postmenopausal estrogen britain)"
+		},
+		{
+		"number": "357",
+		"text": "#rm(territorial waters dispute)"
+		},
+		{
+		"number": "358",
+		"text": "#rm(blood alcohol fatalities)"
+		},
+		{
+		"number": "359",
+		"text": "#rm(mutual fund predictors)"
+		},
+		{
+		"number": "360",
+		"text": "#rm(drug legalization benefits)"
+		},
+		{
+		"number": "361",
+		"text": "#rm(clothing sweatshops)"
+		},
+		{
+		"number": "362",
+		"text": "#rm(human smuggling)"
+		},
+		{
+		"number": "363",
+		"text": "#rm(transportation tunnel disasters)"
+		},
+		{
+		"number": "364",
+		"text": "#rm(rabies)"
+		},
+		{
+		"number": "365",
+		"text": "#rm(el nino)"
+		},
+		{
+		"number": "366",
+		"text": "#rm(commercial cyanide uses)"
+		},
+		{
+		"number": "367",
+		"text": "#rm(piracy)"
+		},
+		{
+		"number": "368",
+		"text": "#rm(in vitro fertilization)"
+		},
+		{
+		"number": "369",
+		"text": "#rm(anorexia nervosa bulimia)"
+		},
+		{
+		"number": "370",
+		"text": "#rm(food drug laws)"
+		},
+		{
+		"number": "371",
+		"text": "#rm(health insurance holistic)"
+		},
+		{
+		"number": "372",
+		"text": "#rm(native american casino)"
+		},
+		{
+		"number": "373",
+		"text": "#rm(encryption equipment export)"
+		},
+		{
+		"number": "374",
+		"text": "#rm(nobel prize winners)"
+		},
+		{
+		"number": "375",
+		"text": "#rm(hydrogen energy)"
+		},
+		{
+		"number": "376",
+		"text": "#rm(world court)"
+		},
+		{
+		"number": "377",
+		"text": "#rm(cigar smoking)"
+		},
+		{
+		"number": "378",
+		"text": "#rm(euro opposition)"
+		},
+		{
+		"number": "379",
+		"text": "#rm(mainstreaming)"
+		},
+		{
+		"number": "380",
+		"text": "#rm(obesity medical treatment)"
+		},
+		{
+		"number": "381",
+		"text": "#rm(alternative medicine)"
+		},
+		{
+		"number": "382",
+		"text": "#rm(hydrogen fuel automobiles)"
+		},
+		{
+		"number": "383",
+		"text": "#rm(mental illness drugs)"
+		},
+		{
+		"number": "384",
+		"text": "#rm(space station moon)"
+		},
+		{
+		"number": "385",
+		"text": "#rm(hybrid fuel cars)"
+		},
+		{
+		"number": "386",
+		"text": "#rm(teaching disabled children)"
+		},
+		{
+		"number": "387",
+		"text": "#rm(radioactive waste)"
+		},
+		{
+		"number": "388",
+		"text": "#rm(organic soil enhancement)"
+		},
+		{
+		"number": "389",
+		"text": "#rm(illegal technology transfer)"
+		},
+		{
+		"number": "390",
+		"text": "#rm(orphan drugs)"
+		},
+		{
+		"number": "391",
+		"text": "#rm(rd drug prices)"
+		},
+		{
+		"number": "392",
+		"text": "#rm(robotics)"
+		},
+		{
+		"number": "393",
+		"text": "#rm(mercy killing)"
+		},
+		{
+		"number": "394",
+		"text": "#rm(home schooling)"
+		},
+		{
+		"number": "395",
+		"text": "#rm(tourism)"
+		},
+		{
+		"number": "396",
+		"text": "#rm(sick building syndrome)"
+		},
+		{
+		"number": "397",
+		"text": "#rm(automobile recalls)"
+		},
+		{
+		"number": "398",
+		"text": "#rm(dismantling europes arsenal)"
+		},
+		{
+		"number": "399",
+		"text": "#rm(oceanographic vessels)"
+		},
+		{
+		"number": "400",
+		"text": "#rm(amazon rain forest)"
+		},
+		{
+		"number": "401",
+		"text": "#rm(foreign minorities germany)"
+		},
+		{
+		"number": "402",
+		"text": "#rm(behavioral genetics)"
+		},
+		{
+		"number": "403",
+		"text": "#rm(osteoporosis)"
+		},
+		{
+		"number": "404",
+		"text": "#rm(ireland peace talks)"
+		},
+		{
+		"number": "405",
+		"text": "#rm(cosmic events)"
+		},
+		{
+		"number": "406",
+		"text": "#rm(parkinsons disease)"
+		},
+		{
+		"number": "407",
+		"text": "#rm(poaching wildlife preserves)"
+		},
+		{
+		"number": "408",
+		"text": "#rm(tropical storms)"
+		},
+		{
+		"number": "409",
+		"text": "#rm(legal pan am 103)"
+		},
+		{
+		"number": "410",
+		"text": "#rm(schengen agreement)"
+		},
+		{
+		"number": "411",
+		"text": "#rm(salvaging shipwreck treasure)"
+		},
+		{
+		"number": "412",
+		"text": "#rm(airport security)"
+		},
+		{
+		"number": "413",
+		"text": "#rm(steel production)"
+		},
+		{
+		"number": "414",
+		"text": "#rm(cuba sugar exports)"
+		},
+		{
+		"number": "415",
+		"text": "#rm(drugs golden triangle)"
+		},
+		{
+		"number": "416",
+		"text": "#rm(three gorges project)"
+		},
+		{
+		"number": "417",
+		"text": "#rm(creativity)"
+		},
+		{
+		"number": "418",
+		"text": "#rm(quilts income)"
+		},
+		{
+		"number": "419",
+		"text": "#rm(recycle automobile tires)"
+		},
+		{
+		"number": "420",
+		"text": "#rm(carbon monoxide poisoning)"
+		},
+		{
+		"number": "421",
+		"text": "#rm(industrial waste disposal)"
+		},
+		{
+		"number": "422",
+		"text": "#rm(art stolen forged)"
+		},
+		{
+		"number": "423",
+		"text": "#rm(milosevic mirjana markovic)"
+		},
+		{
+		"number": "424",
+		"text": "#rm(suicides)"
+		},
+		{
+		"number": "425",
+		"text": "#rm(counterfeiting money)"
+		},
+		{
+		"number": "426",
+		"text": "#rm(law enforcement dogs)"
+		},
+		{
+		"number": "427",
+		"text": "#rm(uv damage eyes)"
+		},
+		{
+		"number": "428",
+		"text": "#rm(declining birth rates)"
+		},
+		{
+		"number": "429",
+		"text": "#rm(legionnaires disease)"
+		},
+		{
+		"number": "430",
+		"text": "#rm(killer bee attacks)"
+		},
+		{
+		"number": "431",
+		"text": "#rm(robotic technology)"
+		},
+		{
+		"number": "432",
+		"text": "#rm(profiling motorists police)"
+		},
+		{
+		"number": "433",
+		"text": "#rm(greek philosophy stoicism)"
+		},
+		{
+		"number": "434",
+		"text": "#rm(estonia economy)"
+		},
+		{
+		"number": "435",
+		"text": "#rm(curbing population growth)"
+		},
+		{
+		"number": "436",
+		"text": "#rm(railway accidents)"
+		},
+		{
+		"number": "437",
+		"text": "#rm(deregulation gas electric)"
+		},
+		{
+		"number": "438",
+		"text": "#rm(tourism increase)"
+		},
+		{
+		"number": "439",
+		"text": "#rm(inventions scientific discoveries)"
+		},
+		{
+		"number": "440",
+		"text": "#rm(child labor)"
+		},
+		{
+		"number": "441",
+		"text": "#rm(lyme disease)"
+		},
+		{
+		"number": "442",
+		"text": "#rm(heroic acts)"
+		},
+		{
+		"number": "443",
+		"text": "#rm(us investment africa)"
+		},
+		{
+		"number": "444",
+		"text": "#rm(supercritical fluids)"
+		},
+		{
+		"number": "445",
+		"text": "#rm(women clergy)"
+		},
+		{
+		"number": "446",
+		"text": "#rm(tourists violence)"
+		},
+		{
+		"number": "447",
+		"text": "#rm(stirling engine)"
+		},
+		{
+		"number": "448",
+		"text": "#rm(ship losses)"
+		},
+		{
+		"number": "449",
+		"text": "#rm(antibiotics ineffectiveness)"
+		},
+		{
+		"number": "450",
+		"text": "#rm(king hussein peace)"
+		},
+		{
+		"number": "601",
+		"text": "#rm(turkey iraq water)"
+		},
+		{
+		"number": "602",
+		"text": "#rm(czech slovak sovereignty)"
+		},
+		{
+		"number": "603",
+		"text": "#rm(tobacco cigarette lawsuit)"
+		},
+		{
+		"number": "604",
+		"text": "#rm(lyme disease arthritis)"
+		},
+		{
+		"number": "605",
+		"text": "#rm(great britain health care)"
+		},
+		{
+		"number": "606",
+		"text": "#rm(leg traps ban)"
+		},
+		{
+		"number": "607",
+		"text": "#rm(human genetic code)"
+		},
+		{
+		"number": "608",
+		"text": "#rm(taxing social security)"
+		},
+		{
+		"number": "609",
+		"text": "#rm(per capita alcohol consumption)"
+		},
+		{
+		"number": "610",
+		"text": "#rm(minimum wage adverse impact)"
+		},
+		{
+		"number": "611",
+		"text": "#rm(kurds germany violence)"
+		},
+		{
+		"number": "612",
+		"text": "#rm(tibet protesters)"
+		},
+		{
+		"number": "613",
+		"text": "#rm(berlin wall disposal)"
+		},
+		{
+		"number": "614",
+		"text": "#rm(flavr savr tomato)"
+		},
+		{
+		"number": "615",
+		"text": "#rm(timber exports asia)"
+		},
+		{
+		"number": "616",
+		"text": "#rm(volkswagen mexico)"
+		},
+		{
+		"number": "617",
+		"text": "#rm(russia cuba economy)"
+		},
+		{
+		"number": "618",
+		"text": "#rm(ayatollah khomeini death)"
+		},
+		{
+		"number": "619",
+		"text": "#rm(winnie mandela scandal)"
+		},
+		{
+		"number": "620",
+		"text": "#rm(france nuclear testing)"
+		},
+		{
+		"number": "621",
+		"text": "#rm(women ordained church of england)"
+		},
+		{
+		"number": "622",
+		"text": "#rm(price fixing)"
+		},
+		{
+		"number": "623",
+		"text": "#rm(toxic chemical weapon)"
+		},
+		{
+		"number": "624",
+		"text": "#rm(sdi star wars)"
+		},
+		{
+		"number": "625",
+		"text": "#rm(arrests bombing wtc)"
+		},
+		{
+		"number": "626",
+		"text": "#rm(human stampede)"
+		},
+		{
+		"number": "627",
+		"text": "#rm(russian food crisis)"
+		},
+		{
+		"number": "628",
+		"text": "#rm(us invasion of panama)"
+		},
+		{
+		"number": "629",
+		"text": "#rm(abortion clinic attack)"
+		},
+		{
+		"number": "630",
+		"text": "#rm(gulf war syndrome)"
+		},
+		{
+		"number": "631",
+		"text": "#rm(mandela south africa president)"
+		},
+		{
+		"number": "632",
+		"text": "#rm(southeast asia tin mining)"
+		},
+		{
+		"number": "633",
+		"text": "#rm(welsh devolution)"
+		},
+		{
+		"number": "634",
+		"text": "#rm(l tryptophan deaths)"
+		},
+		{
+		"number": "635",
+		"text": "#rm(doctor assisted suicides)"
+		},
+		{
+		"number": "636",
+		"text": "#rm(jury duty exemptions)"
+		},
+		{
+		"number": "637",
+		"text": "#rm(human growth hormone hgh)"
+		},
+		{
+		"number": "638",
+		"text": "#rm(wrongful convictions)"
+		},
+		{
+		"number": "639",
+		"text": "#rm(consumer on line shopping)"
+		},
+		{
+		"number": "640",
+		"text": "#rm(maternity leave policies)"
+		},
+		{
+		"number": "641",
+		"text": "#rm(valdez wildlife marine life)"
+		},
+		{
+		"number": "642",
+		"text": "#rm(tiananmen square protesters)"
+		},
+		{
+		"number": "643",
+		"text": "#rm(salmon dams pacific northwest)"
+		},
+		{
+		"number": "644",
+		"text": "#rm(exotic animals import)"
+		},
+		{
+		"number": "645",
+		"text": "#rm(software piracy)"
+		},
+		{
+		"number": "646",
+		"text": "#rm(food stamps increase)"
+		},
+		{
+		"number": "647",
+		"text": "#rm(windmill electricity)"
+		},
+		{
+		"number": "648",
+		"text": "#rm(family leave law)"
+		},
+		{
+		"number": "649",
+		"text": "#rm(computer viruses)"
+		},
+		{
+		"number": "650",
+		"text": "#rm(tax evasion indicted)"
+		},
+		{
+		"number": "651",
+		"text": "#rm(us ethnic population)"
+		},
+		{
+		"number": "652",
+		"text": "#rm(oic balkans 1990s)"
+		},
+		{
+		"number": "653",
+		"text": "#rm(eta basque terrorism)"
+		},
+		{
+		"number": "654",
+		"text": "#rm(same sex schools)"
+		},
+		{
+		"number": "655",
+		"text": "#rm(add diagnosis treatment)"
+		},
+		{
+		"number": "656",
+		"text": "#rm(lead poisoning children)"
+		},
+		{
+		"number": "657",
+		"text": "#rm(school prayer banned)"
+		},
+		{
+		"number": "658",
+		"text": "#rm(teenage pregnancy)"
+		},
+		{
+		"number": "659",
+		"text": "#rm(cruise health safety)"
+		},
+		{
+		"number": "660",
+		"text": "#rm(whale watching california)"
+		},
+		{
+		"number": "661",
+		"text": "#rm(melanoma treatment causes)"
+		},
+		{
+		"number": "662",
+		"text": "#rm(telemarketer protection)"
+		},
+		{
+		"number": "663",
+		"text": "#rm(agent orange exposure)"
+		},
+		{
+		"number": "664",
+		"text": "#rm(american indian museum)"
+		},
+		{
+		"number": "665",
+		"text": "#rm(poverty africa sub sahara)"
+		},
+		{
+		"number": "666",
+		"text": "#rm(thatcher resignation impact)"
+		},
+		{
+		"number": "667",
+		"text": "#rm(unmarried partner households)"
+		},
+		{
+		"number": "668",
+		"text": "#rm(poverty disease)"
+		},
+		{
+		"number": "669",
+		"text": "#rm(islamic revolution)"
+		},
+		{
+		"number": "670",
+		"text": "#rm(us elections apathy)"
+		},
+		{
+		"number": "671",
+		"text": "#rm(salvation army benefits)"
+		},
+		{
+		"number": "673",
+		"text": "#rm(soviet withdrawal afghanistan)"
+		},
+		{
+		"number": "674",
+		"text": "#rm(greenpeace prosecuted)"
+		},
+		{
+		"number": "675",
+		"text": "#rm(olympics training swimming)"
+		},
+		{
+		"number": "676",
+		"text": "#rm(poppy cultivation)"
+		},
+		{
+		"number": "677",
+		"text": "#rm(leaning tower of pisa)"
+		},
+		{
+		"number": "678",
+		"text": "#rm(joint custody impact)"
+		},
+		{
+		"number": "679",
+		"text": "#rm(opening adoption records)"
+		},
+		{
+		"number": "680",
+		"text": "#rm(immigrants spanish school)"
+		},
+		{
+		"number": "681",
+		"text": "#rm(wind power location)"
+		},
+		{
+		"number": "682",
+		"text": "#rm(adult immigrants english)"
+		},
+		{
+		"number": "683",
+		"text": "#rm(czechoslovakia breakup)"
+		},
+		{
+		"number": "684",
+		"text": "#rm(part time benefits)"
+		},
+		{
+		"number": "685",
+		"text": "#rm(oscar winner selection)"
+		},
+		{
+		"number": "686",
+		"text": "#rm(argentina pegging dollar)"
+		},
+		{
+		"number": "687",
+		"text": "#rm(northern ireland industry)"
+		},
+		{
+		"number": "688",
+		"text": "#rm(non us media bias)"
+		},
+		{
+		"number": "689",
+		"text": "#rm(family planning aid)"
+		},
+		{
+		"number": "690",
+		"text": "#rm(college education advantage)"
+		},
+		{
+		"number": "691",
+		"text": "#rm(clear cutting forests)"
+		},
+		{
+		"number": "692",
+		"text": "#rm(prostate cancer detection treatment)"
+		},
+		{
+		"number": "693",
+		"text": "#rm(newspapers electronic media)"
+		},
+		{
+		"number": "694",
+		"text": "#rm(compost pile)"
+		},
+		{
+		"number": "695",
+		"text": "#rm(white collar crime sentence)"
+		},
+		{
+		"number": "696",
+		"text": "#rm(safety plastic surgery)"
+		},
+		{
+		"number": "697",
+		"text": "#rm(air traffic controller)"
+		},
+		{
+		"number": "698",
+		"text": "#rm(literacy rates africa)"
+		},
+		{
+		"number": "699",
+		"text": "#rm(term limits)"
+		},
+		{
+		"number": "700",
+		"text": "#rm(gasoline tax us)"
+		}
+	]
+}
